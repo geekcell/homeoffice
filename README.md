@@ -66,7 +66,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 
 ## Whiteboarding
-- [Apple iPad Pro 12.9-inch, LTE](https://www.apple.com/de/ipad-pro/) - with a crack, but still works great for sketching and note-taking
+- [Apple iPad Pro 12.9-inch, LTE](https://support.apple.com/de-de/111979) - with a crack, but still works great for sketching and note-taking
 - [Apple Pencil](https://www.apple.com/de/apple-pencil/) - precise stylus
 
 ## Printer
