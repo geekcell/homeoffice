@@ -30,6 +30,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 - [Balolo Cockpit Monitor Stand Large](https://www.balolo.de/en/products/setup-cockpit-large) - ergonomic monitor stand for optimal viewing height
 - 2x [Balolo Setup Cockpit](https://www.balolo.de/en/products/tray-for-setup-cockpit) - daily paperwork and accessories organizer
 - [ELIVED Dual Vertical Monitor Stand](https://www.amazon.de/dp/B0C9J6Z3TQ) - lifted monitor stand for better ergonomics
+- [KUXIU X38 Pro MAX Magnetic iPad Stand](https://kuxiu.co/de/products/kuxiu-x38-pro-max-ipad-stand) - magnetic with charging function, perfect Sidecar display
 
 ## Chair
 - [HermanMiller Cosm](https://www.hermanmiller.com/de_de/products/seating/office-chairs/cosm-chairs/) - ergonomic office chair with automatic adjustments for comfort and support
