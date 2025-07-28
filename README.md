@@ -33,7 +33,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 - [KUXIU X38 Pro MAX](https://kuxiu.co/de/products/kuxiu-x38-pro-max-ipad-stand) - magnetic with charging function, perfect Sidecar display
 
 ## Chair
-- [HermanMiller Cosm](https://www.hermanmiller.com/de_de/products/seating/office-chairs/cosm-chairs/) - ergonomic office chair with automatic adjustments for comfort and support
+- [Herman Miller Performance Cosm](https://www.hermanmiller.com/de_de/products/seating/office-chairs/cosm-chairs/) - ergonomic office chair with automatic adjustments for comfort and support
 
 ## Lights
 - 2x [Elgato Key Light](https://www.elgato.com/de/de/p/key-light) - professional lighting for video calls
