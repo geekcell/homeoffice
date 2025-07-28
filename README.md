@@ -64,7 +64,6 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 ## Stream Deck
 - [Elgato Stream Deck](https://www.elgato.com/de/gaming/stream-deck) - customizable control panel for quick access to functions and shortcuts
 
-
 ## Whiteboarding
 - [Apple iPad Pro 12.9-inch, LTE](https://support.apple.com/de-de/111979) - with a crack, but still works great for sketching and note-taking
 - [Apple Pencil](https://www.apple.com/de/apple-pencil/) - precise stylus
@@ -74,7 +73,6 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 ## Software
 - [Elgato Control Center](https://www.elgato.com/de/gaming/downloads) - turning on/off the lights and controlling the stream deck
-- [Elgato Stream Deck](https://www.elgato.com/de/gaming/downloads) - turning on/off the lights, grap incoming calls and controlling the camera
 
 ## Special Hardware
 - [Yubikey 5 NFC](https://www.yubico.com/de/product/yubikey-5-series/yubikey-5-nfc/) - essential for secure authentication
