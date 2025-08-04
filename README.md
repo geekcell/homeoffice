@@ -7,7 +7,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 - [MacbookPro M1, 8C/8G, 16GB, 512GB](https://support.apple.com/de-de/111893) (On-site) - portable development machine
 
 ## Screens
-- 2x [MSI MPG 321URXDE 4K 240Hz](https://de.msi.com/Monitor/MPG-321URX-QD-OLED/) - high-end 4K OLED monitors with utra-smooth refresh rate
+- 2x [MSI MPG 321URX 4K 240Hz](https://de.msi.com/Monitor/MPG-321URX-QD-OLED/) - high-end 4K OLED monitors with utra-smooth refresh rate
 - 1x [BenQ PD3220U 4K 60Hz](https://www.benq.eu/de-de/monitor/professional/pd3220u.html) - color-accurate professional display
 
 ## Camera
