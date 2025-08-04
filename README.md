@@ -15,7 +15,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 - [Sony FE 24-105 mm F4 G OSS](https://www.sony.de/electronics/kamera-objektive/sel24105g) - versatile lens
 
 ## Microphone
-- [Blue Yeticaster](https://www.logitechg.com/de-de/products/streaming-gear/yeti-premium-usb-microphone.988-000229.html) - high-quality podcasting microphone
+- [Elgato Wave DX](https://www.elgato.com/de/de/p/wave-dx-dynamic-microphone) - high-quality podcasting microphone
 - [Elgato Wave Mic Arm LP](https://www.elgato.com/de/de/p/wave-mic-arm-lp) - flexible microphone arm for optimal positioning
 
 ## Keyboard
@@ -41,7 +41,8 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 ## Audio
 - [Creative Sound Blaster X4](https://de.creative.com/p/sound-blaster/sound-blaster-x4) - high-quality audio interface for enhanced sound quality
-- [Teufel Concept E 400](https://teufel.de/concept-e-400-digital-51-set-100167000) - sound system with a lot of bass, i like electronic music
+- [Elgato Wave XLR](https://www.elgato.com/de/de/p/wave-xlr) - XLR microphone audio interface for enhanced sound quality with equalizer and VST plugins
+- [Teufel Concept E 400](https://teufel.de/concept-e-400-digital-51-set-100167000) - sound system for a lot of bass, i like electronic music
 
 ## Headphones
 - [Apple AirPods Pro](https://www.apple.com/de/airpods-pro/) - noise-cancelling earbuds for daily use
