@@ -8,7 +8,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 ## Screens
 - 2x [MSI MPG 321URXDE 4K 240Hz](https://de.msi.com/Monitor/MPG-321URX-QD-OLED/) - high-end 4K OLED monitors with utra-smooth refresh rate
-- 1x [BenQ PDPD3220U 4K 60Hz](https://www.benq.eu/de-de/monitor/professional/pd3220u.html) -color-accurate professional display
+- 1x [BenQ PD3220U 4K 60Hz](https://www.benq.eu/de-de/monitor/professional/pd3220u.html) - color-accurate professional display
 
 ## Camera
 - [Sony Alpha 7 III](https://www.sony.de/electronics/alpha7) - professional-grade camera for video conferencing
