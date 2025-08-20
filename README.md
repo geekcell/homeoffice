@@ -37,7 +37,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 ## Lights
 - 2x [Elgato Key Light](https://www.elgato.com/de/de/p/key-light) - professional lighting for video calls
-- [BenqQ ScreenBar Halo ](https://www.benq.eu/de-de/lighting/monitor-light/screenbar-halo-2.html) - adjustable monitor light to reduce eye strain
+- [BenQ ScreenBar Halo 2](https://www.benq.eu/de-de/lighting/monitor-light/screenbar-halo-2.html) - adjustable monitor light to reduce eye strain
 
 ## Audio
 - [Creative Sound Blaster X4](https://de.creative.com/p/sound-blaster/sound-blaster-x4) - high-quality audio interface for enhanced sound quality
