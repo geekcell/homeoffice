@@ -16,7 +16,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 ## Microphone
 - [Elgato Wave DX](https://www.elgato.com/de/de/p/wave-dx-dynamic-microphone) - high-quality podcasting microphone
-- [Elgato Wave Mic Arm LP](https://www.elgato.com/de/de/p/wave-mic-arm-lp) - flexible microphone arm for optimal positioning
+- [Elgato Wave Mic Arm Pro](https://www.elgato.com/ww/de/p/wave-mic-arm-pro-black) - flexible microphone arm for optimal positioning
 
 ## Keyboard
 - [DasKeyboard 5QS](https://www.daskeyboard.com/de/p/5qs-smart-rgb-mechanical-keyboard/) - mechanical keyboard with nice thock
