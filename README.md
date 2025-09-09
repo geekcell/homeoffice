@@ -19,7 +19,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 - [Elgato Wave Mic Arm Pro](https://www.elgato.com/ww/de/p/wave-mic-arm-pro-black) - flexible microphone arm for optimal positioning
 
 ## Keyboard
-- [DasKeyboard 5QS](https://www.daskeyboard.com/de/p/5qs-smart-rgb-mechanical-keyboard/) - mechanical keyboard with nice thock
+- [Keychron K8 Pro](https://keychron.de/products/keychron-k8-max-qmk-wireless-mechanical-keyboard-us-ansi-layout) - mechanical keyboard, brown switched and with really nice thock
 
 ## Mouse
 - [Logitech G502X](https://www.logitechg.com/de-de/products/gaming-mice/g502-x-wired-lightforce.html) - daily driver with customizable buttons
