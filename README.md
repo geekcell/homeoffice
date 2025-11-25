@@ -24,6 +24,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 ## Mouse
 - [Logitech G502X](https://www.logitechg.com/de-de/products/gaming-mice/g502-x-wired-lightforce.html) - daily driver with customizable buttons
 - [Logitech MX Ergo S](https://www.logitech.com/de-de/shop/p/mx-ergo-s-wireless-trackball-mouse) - ergonomic trackball mouse for comfort
+- [Razer Gigantus v2 XXL](https://www.razer.com/de-de/gaming-mouse-mats/razer-gigantus-v2) - huge mouse pad
 
 ## Desk
 - [Desktopia Pro X](https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-x) - high-quality and adjustable standing desk
