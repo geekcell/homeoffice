@@ -22,7 +22,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 - [Keychron K8 Pro](https://keychron.de/products/keychron-k8-max-qmk-wireless-mechanical-keyboard-us-ansi-layout) - mechanical keyboard, brown switches and with really nice thock
 
 ## Mouse
-- [Logitech G502X](https://www.logitechg.com/de-de/products/gaming-mice/g502-x-wired-lightforce.html) - daily driver with customizable buttons
+- [Razer Deathadder V3 Pro](https://www.razer.com/de-de/gaming-mice/razer-deathadder-v3-pro) - daily driver with customizable buttons
 - [Logitech MX Ergo S](https://www.logitech.com/de-de/shop/p/mx-ergo-s-wireless-trackball-mouse) - ergonomic trackball mouse for comfort
 - [Razer Gigantus v2 XXL](https://www.razer.com/de-de/gaming-mouse-mats/razer-gigantus-v2) - huge mouse pad
 
@@ -42,6 +42,7 @@ Here’s an overview of the hardware I use daily in my home office as an IT free
 
 ## Audio
 - [Creative Sound Blaster X4](https://de.creative.com/p/sound-blaster/sound-blaster-x4) - high-quality audio interface for enhanced sound quality
+- [Topping L30 II](https://www.toppingaudio.com/product-item/l30-ii) - high-quality headphone amplifier
 - [Elgato Wave XLR](https://www.elgato.com/de/de/p/wave-xlr) - XLR microphone audio interface for enhanced sound quality with equalizer and VST plugins
 - [Teufel Concept E 400](https://teufel.de/concept-e-400-digital-51-set-100167000) - sound system for a lot of bass, i like electronic music
 
